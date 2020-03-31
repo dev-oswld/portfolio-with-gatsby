@@ -41,7 +41,7 @@ export default () => {
                 }
             </ul>
             <div className="mt-8 text-center">
-            <a href="https://github.com/dev-oswld" className="btn" target="_blank" rel="noopener noreferrer">Visit another projects {reposCount}</a>
+            <a href="https://github.com/dev-oswld" className="btn" target="_blank" rel="noopener noreferrer">Visit more projects {reposCount}</a>
             </div>
         </div>
     )
