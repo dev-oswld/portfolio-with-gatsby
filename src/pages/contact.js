@@ -5,6 +5,8 @@ import { Link } from "gatsby"
 export default () => (
   <div>
     <Link className="font-bold text-orange-500 hover:text-orange-700 ml-8" to="/">Home</Link>
+    <Link className="font-bold text-orange-500 hover:text-orange-700 ml-8" to="/contact">Contact</Link>
+    <Link className="font-bold text-orange-500 hover:text-orange-700 ml-8" to="/about">About</Link>
     <h2 className="font-bold text-3xl text-center text-orange-500">Contact</h2>
     <p className="text-justify font-light mx-8 my-8"> 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sagittis purus sit amet volutpat. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Neque convallis a cras semper auctor. Dui id ornare arcu odio ut sem nulla pharetra diam. Magna sit amet purus gravida quis blandit. Pellentesque nec nam aliquam sem et tortor consequat id. Magna fermentum iaculis eu non diam. Tortor consequat id porta nibh venenatis cras sed felis. Egestas diam in arcu cursus euismod quis viverra nibh cras. Ac feugiat sed lectus vestibulum mattis ullamcorper. Rutrum tellus pellentesque eu tincidunt tortor aliquam. Neque convallis a cras semper.
