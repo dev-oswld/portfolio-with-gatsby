@@ -1,7 +1,9 @@
 ---
-path: "/post-one"
-date: "2020-04-13"
+path: "/post"
+date: "2020-04-14"
 title: "My first post"
 ---
 
-# Hello World
+# Watch this:
+
+`youtube:https://www.youtube.com/embed/jbTPbmN3eN4`
