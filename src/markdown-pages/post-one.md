@@ -1,6 +1,6 @@
 ---
 path: "/post"
-date: "2020-04-14"
+date: "2020-00-00"
 title: "My first post"
 ---
 
